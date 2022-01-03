@@ -1,4 +1,4 @@
-# Mocks-xUnit-e-Moq
+ # Mocks em C#: Testes de Integração com xUnit e Moq
 ### Curso feito na plataforma Alura para aprendizagem de Mocks em C#: Testes de Integração com xUnit e Moq .
 
 - Entenda os conceitos relacionados a testes de integração
