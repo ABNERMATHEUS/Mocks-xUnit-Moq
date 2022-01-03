@@ -1,0 +1,15 @@
+C:\Users\Notebook\Desktop\Projetos\.NET\Alura\Mocks\testes-integracao.video6.2\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.deps.json
+C:\Users\Notebook\Desktop\Projetos\.NET\Alura\Mocks\testes-integracao.video6.2\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.dll
+C:\Users\Notebook\Desktop\Projetos\.NET\Alura\Mocks\testes-integracao.video6.2\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.pdb
+C:\Users\Notebook\Desktop\Projetos\.NET\Alura\Mocks\testes-integracao.video6.2\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.dll
+C:\Users\Notebook\Desktop\Projetos\.NET\Alura\Mocks\testes-integracao.video6.2\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.dll
+C:\Users\Notebook\Desktop\Projetos\.NET\Alura\Mocks\testes-integracao.video6.2\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.pdb
+C:\Users\Notebook\Desktop\Projetos\.NET\Alura\Mocks\testes-integracao.video6.2\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.pdb
+C:\Users\Notebook\Desktop\Projetos\.NET\Alura\Mocks\testes-integracao.video6.2\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csproj.AssemblyReference.cache
+C:\Users\Notebook\Desktop\Projetos\.NET\Alura\Mocks\testes-integracao.video6.2\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\Desktop\Projetos\.NET\Alura\Mocks\testes-integracao.video6.2\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.AssemblyInfoInputs.cache
+C:\Users\Notebook\Desktop\Projetos\.NET\Alura\Mocks\testes-integracao.video6.2\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.AssemblyInfo.cs
+C:\Users\Notebook\Desktop\Projetos\.NET\Alura\Mocks\testes-integracao.video6.2\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\Projetos\.NET\Alura\Mocks\testes-integracao.video6.2\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csproj.CopyComplete
+C:\Users\Notebook\Desktop\Projetos\.NET\Alura\Mocks\testes-integracao.video6.2\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.dll
+C:\Users\Notebook\Desktop\Projetos\.NET\Alura\Mocks\testes-integracao.video6.2\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.pdb
